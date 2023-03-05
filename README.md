@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=l2W8v4udBbU and
 C#/WPF - Learn MVVM with the .NET Community Toolkit
 https://www.youtube.com/watch?v=uVIzK2snugk
 
+I learned a lot from him about Community Toolkit and I used his code to make Tab control example.
+
 and many others with their solutions and if anybody recognize his code let me know I will update this with your name.
 
 You can download the code and send me your suggestions for improvement. As you can see 
