@@ -16,7 +16,7 @@ and many others with their solutions and if anybody recognize his code let me kn
 
 You can download the code and send me your suggestions for improvement. As you can see 
 
-As you can see in the picture, the application allows clicking on a person twice to open a new tab for the same person. If anyone has a solution to solve this, I would appreciate your help. A good solution would be that if the person is already open, not to open a new tab again, but to switch the focus to that person and show the data.
+**As you can see in the picture, the application allows clicking on a person twice to open a new tab for the same person. If anyone has a solution to solve this, I would appreciate your help. A good solution would be that if the person is already open, not to open a new tab again, but to switch the focus to that person and show the data.**
 
 
 ![Tabcontrol1](https://user-images.githubusercontent.com/37701426/222963571-fd2f936b-b628-4d4b-93f5-a350d4d7c957.png)
