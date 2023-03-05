@@ -2,6 +2,7 @@
 C# Wpf Mvvm  Tab control
 I already made small application in C# using Windows Forms. After that I want to make same application but using WPF and MvvM architecture.
 At the very beginning, I encountered the problem of how to open a person in Tab control by clicking on the list view. After a few weeks of searching for solutions, of which there were many, but none of them fully suited my needs, and if they did, they required the use of libraries that I didn't really like to be in my application from the very beginning.
+
 First of all, I want to say thank you to Kevin Bost. 
 After watching his YouTube channel  
 C#/WPF - Deep dive into the TabControl
